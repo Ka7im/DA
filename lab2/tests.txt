@@ -1,0 +1,15 @@
+test_all_stopping_counts (test_lab2.TestClustering.test_all_stopping_counts) ... ok
+test_average_unequal_cluster_sizes (test_lab2.TestClustering.test_average_unequal_cluster_sizes) ... ok
+test_even_median_and_repetitions (test_lab2.TestClustering.test_even_median_and_repetitions) ... ok
+test_invalid_matrices (test_lab2.TestClustering.test_invalid_matrices) ... ok
+test_invalid_parameters (test_lab2.TestClustering.test_invalid_parameters) ... ok
+test_known_merge_sequences (test_lab2.TestClustering.test_known_merge_sequences) ... ok
+test_nine_cross_distances (test_lab2.TestClustering.test_nine_cross_distances) ... ok
+test_repeat_fit_preserves_input (test_lab2.TestClustering.test_repeat_fit_preserves_input) ... ok
+test_single_observation (test_lab2.TestClustering.test_single_observation) ... ok
+test_zero_distance_and_tie_rule (test_lab2.TestClustering.test_zero_distance_and_tie_rule) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.026s
+
+OK
